@@ -3,3 +3,5 @@ Plandigit is a management application. With Plandigit in your company, you can c
 
 
 <a href = "https://github.com/ozgun-kara/Proje-Takip-Uygulamasi" target = "_blank"> <img src = "https://s10.gifyu.com/images/Plandigit-1.jpg" /> </a>
+
+<a href = "https://github.com/ozgun-kara/Proje-Takip-Uygulamasi" target = "_blank"> <img src = "https://s10.gifyu.com/images/5086fa1195e105717.jpg" /> </a>
